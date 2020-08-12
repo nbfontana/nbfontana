@@ -12,7 +12,7 @@
       <img height="20" src="https://image.flaticon.com/icons/svg/732/732026.svg" />
     </a>
   </p>
-  <p>Hi, I'm Neri, frontend kinda full stack~overflow~ developer from Florianópolis, Brazil.</p>
+  <p>Hi, I'm Neri, **frontend** kinda full stack~overflow~ **developer** from Florianópolis, **Brazil**.</p>
   <br>
   <br>
 </div>
