@@ -1,16 +1,25 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nbfontana&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**nbfontana/nbfontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://github.com/nbfontana">
+    <img width="100" height="100" src="https://media.giphy.com/media/Q5ceY3HTUvepCPMXPD/giphy.gif" />
+  </a>
+  <br>
+  <p>
+    <a href="mailto:nerifontana@gmail.com">
+      <img height="18" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" />
+    </a>
+  </p>
+  <p>Hi, I'm Neri, frontend kinda full stack~overflow~ developer from Florianópolis, Brazil.</p>
+  <p>
+    <a href="https://www.youtube.com/watch?v=w5GrxfjuTTI&list=OLAK5uy_mX9d9zsFckvzZEXQtDpdjnMdeZJrV9Wnc">
+      <img src="https://github-readme-stats.vercel.app/api?username=nbfontana&show_icons=true&icon_color=805AD5&&count_private=true&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+    </a>
+  </p>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
