@@ -6,10 +6,10 @@
   </a>
   <p>
     <a href="https://www.linkedin.com/in/nbfontana/">
-      <img height="20" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" />
+      <img height="18" src="https://image.flaticon.com/icons/svg/25/25320.svg" />
     </a>
     <a href="mailto:nerifontana@gmail.com">
-      <img height="18" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" />
+      <img height="20" src="https://image.flaticon.com/icons/svg/732/732026.svg" />
     </a>
   </p>
   <p>Hi, I'm Neri, frontend kinda full stack~overflow~ developer from Florianópolis, Brazil.</p>
